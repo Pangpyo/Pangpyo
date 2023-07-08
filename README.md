@@ -1,5 +1,5 @@
 초보 개발자
-![header](https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=200&section=header&text=Pangpyo&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=200&section=header&text=Pangpyo&fontSize=40&&fontColor=000000)
 
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangpyo&show_icons=true&theme=dark)
