@@ -1,5 +1,5 @@
 초보 개발자
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=150&section=header&text=Pangpyo&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=150&section=header&text=Pangpyo&fontSize=40)
 
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pangpyo&show_icons=true&theme=dark)
@@ -8,4 +8,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkp0639)](https://solved.ac/profile/kkp0639)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00CCFF&height=200&section=footer)
